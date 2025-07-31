@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Karu",
+    "primaryColor": "#ffe843",
+    "imageUrl": "src/assets/images/Characters/Karu.png",
+    "offset": 45,
+    "offsetX": -30
+  },
+  {
+    "name": "Froo",
+    "primaryColor": "#9bff43",
+    "imageUrl": "src/assets/images/Characters/Froo.png",
+    "offset": 55,
+    "offsetX": -2
+  },
+  {
+    "name": "Liz",
+    "primaryColor": "#eb4992",
+    "imageUrl": "src/assets/images/Characters/Liz.png",
+    "offset": 30,
+    "offsetX": 0
+  },
+  {
+    "name": "Nix",
+    "primaryColor": "#51d0cb",
+    "imageUrl": "src/assets/images/Characters/Nix.png",
+    "offset": 73,
+    "offsetX": 20
+  },
+  {
+    "name": "May",
+    "primaryColor": "#3447e8",
+    "imageUrl": "src/assets/images/Characters/May.png",
+    "offset": 60,
+    "offsetX": 30
+  },
+  {
+    "name": "Lane",
+    "primaryColor": "#4ed1e8",
+    "imageUrl": "src/assets/images/Characters/Lane.png",
+    "offset": 25,
+    "offsetX": -10
+  },
+  {
+    "name": "Applesauce",
+    "primaryColor": "#ff423c",
+    "imageUrl": "src/assets/images/Characters/Applesauce.png",
+    "offset": 65,
+    "offsetX": 40
+  },
+  {
+    "name": "Kila",
+    "primaryColor": "#5dfff5",
+    "imageUrl": "src/assets/images/Characters/Kila.png",
+    "offset": 40,
+    "offsetX": -20
+  },
+  {
+    "name": "Ava",
+    "primaryColor": "#ffa515",
+    "imageUrl": "src/assets/images/Characters/Ava.png",
+    "offset": 55,
+    "offsetX": -10
+  },
+  {
+    "name": "TheKid",
+    "primaryColor": "#3447e8",
+    "imageUrl": "src/assets/images/Characters/TheKid.png",
+    "offset": 30,
+    "offsetX": 30
+  }
+]
